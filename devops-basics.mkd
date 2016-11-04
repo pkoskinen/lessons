@@ -1,0 +1,58 @@
+me: inverse
+layout: true
+class: center, middle, inverse
+
+---
+
+# Introduction to DevOps
+
+## Pinja Koskinen
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Code examples: [OSI](http://opensource.org)-approved [MIT license](http://opensource.org/licenses/mit-license.html).
+
+---
+
+layout: false
+
+## What is DevOps?
+
+- Combines development and operations
+- Aims at decreasing manual work
+- Automizes building, testing and releasing of software
+- Automized processes can help gaining rapid and reliable release cycles
+- Promotes also good practices and brings other value
+
+---
+
+## DevOps toolchain
+
+- Code
+- Build
+- Test
+- Package
+- Release
+- Configure
+- Monitor
+
+---
+
+# DevOps tools
+
+- Good coverage of tools in https://xebialabs.com/periodic-table-of-devops-tools/
+  - ...but this is not a perfect list
+- Many tools are free to use, some might have a free community version and a paid one
+- Not everything is needed, but it is good to acknowledge these exist in case of need
+
+
+![](img/devops/devops_toolchain.svg)
+
+- The chain can vary a lot, depending on tools and needs!
+
+---
+
+# Questions
+
+- What parts of your development cycle would you automize?
+- What tools - if any - are you already using?
+
